@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMSGateway</string>
+    <string name="counter_txt">Sent SMS Counter: </string>
+    <string name="start_str">Start</string>
+    <string name="Stop_txt">Stop</string>
+</resources>
